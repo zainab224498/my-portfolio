@@ -1,0 +1,42 @@
+[
+  {
+    "title": "E-commerce Web App",
+    "imageSrc": "projects/roze.png",
+    "description": "Building Web App using React and Firebase, The App is flexible, easy to use, and Expandable",
+    "skills": ["React","Next", "Firebase", "Tailwind"],
+    "demo": "https://roze-e-commerce.vercel.app",
+    "source": "https://github.com/zainab224498/ROZE-e-commerce"
+  },
+  {
+    "title": "Recipes Website",
+    "imageSrc": "projects/lamar.png",
+    "description": "Creating a Recipes Website using React and Firebase, The Website is dynamic and interactive",
+    "skills": ["React","Next", "Firebase", "Tailwind"],
+    "demo": "https://lamar-recipes.vercel.app",
+    "source": "https://github.com/zainab224498/Lamar_Recipes"
+  },
+  {
+    "title": "Dashbourd Transportation",
+    "imageSrc": "projects/dashboard.png",
+    "description": "transportation dashboard contains everything related to transportation and its services",
+    "skills": ["React", "Vue.js", "Next", "Nuxt"],
+    "demo": "https://transportation-dashboard.vercel.app",
+    "source": "https://github.com/zainab224498/Transportation-Dashboard"
+  },
+  {
+    "title": "Axtro Soft Website",
+    "imageSrc": "projects/axtro.png",
+    "description": "Building a website for Axtro Soft Company using Vue.js. The website is flexible and easy to use",
+    "skills": ["Vue.js", "Tailwind", "HTML"],
+    "demo": "https://axtro-soft.com",
+    "source": "https://axtro-soft.com"
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Building an impressive Responsive Portfolio Website using React and CSS",
+    "skills": ["React", "CSS", "HTML"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Mosaic Human Relief and Development ",
+    "startDate": "Jan 2024",
+    "endDate": "Present",
+    "discription": "Latakia, Syria  - Full Time",
+    "experiences": [ "Responsible for the programming department", "Developing the website and adding many sections to the website", "Debugging programming errors in website code", "Managing site's dashboard and developing its code to suit the site", "Managing website content and searching for the best ways to reach effective and attractive content"],
+    "imageSrc": "history/mosaiclogo.png"
+  },
+  {
+    "role": "Frontend Developer",
+    "organisation": "Axtro Soft",
+    "startDate": "Mar 2022",
+    "endDate": "Dec 2023",
+    "discription": "Damascus, Syria (Remote)  - Full Time",
+    "experiences": ["Worked with UI/UX designer and converted the designs they gave me to front-end web applications.", "Engaged in daily scrum meetings with our members team to optimize the development process.", "Build Many web applications pages with a responsive mobilefirst approach from concept to deployment.", "Solving many bugs related to building web application ", "Join several online training to learn new skills and tools"],
+    "imageSrc": "history/axtro.png"
+  },
+  {
+    "role": "Translator",
+    "organisation": "Arageek",
+    "startDate": "Mar 2019",
+    "endDate": "Sep 2019",
+    "discription": "London, UK (Remote)  - Part Time",
+    "experiences": [
+      "Collecting contents of article from several sites related to topic of article",
+      "Translating articles into Arabic",
+      "Holding periodic meetings with manager to discuss improving work"
+    ],
+    "imageSrc": "history/arageek.png"
+  }
+]
