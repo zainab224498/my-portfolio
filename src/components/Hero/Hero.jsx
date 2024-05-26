@@ -13,7 +13,7 @@ export const Hero = () => {
           I'm a Frontend Developer with more than 4 years of experience in frontend development with a passion for building
 responsive and performant websites.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+                <a href="https://drive.google.com/file/d/1sZFYcUuazcnUoezqpIkMaykMwJNEL1Lp/view?usp=sharing" className={styles.contactBtn} target="_blank">
           Check Resume
         </a>
       </div>
