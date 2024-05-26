@@ -16,7 +16,7 @@
     "source": "https://github.com/zainab224498/Lamar_Recipes"
   },
   {
-    "title": "Dashbourd Transportation",
+    "title": "Transportation Dashbourd",
     "imageSrc": "projects/dashboard.png",
     "description": "transportation dashboard contains everything related to transportation and its services",
     "skills": ["React", "Vue.js", "Next", "Nuxt"],
