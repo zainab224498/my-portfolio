@@ -1,11 +1,18 @@
 [
   {
-    "role": "Software Engineer",
+    "role": "Business Analyst & Web Developer",
     "organisation": "Mosaic Human Relief and Development ",
     "startDate": "Jan 2024",
     "endDate": "Present",
     "discription": "Latakia, Syria  - Full Time",
-    "experiences": [ "Responsible for the programming department.", "Developing the website and adding many sections to the website.", "Debugging programming errors in website code.", "Managing site's dashboard and developing its code to suit the site.", "Managing website content and searching for the best ways to reach attractive content."],
+    "experiences": [ "Spearheaded the full redesign and enhancement of the organization’s website, improving functionality,
+user experience, and alignment with operational goals.", "Developed and optimized frontend interfaces, ensuring responsiveness, cross-browser compatibility,
+and seamless navigation.", "Structured and integrated new website sections to enhance information accessibility and stakeholder
+engagement.", "Collaborated with cross-functional teams to analyze business requirements and translate them into
+technical solutions.", "Designed and implemented customized content templates tailored to specific project needs,
+streamlining data presentation.", "Developed interactive dashboards and reports to visualize program metrics, enabling data-driven
+decision-making.", "Acted as the primary liaison between technical teams and non-technical stakeholders, ensuring clear
+communication and workflow alignment.", "Enhanced backend dashboard functionality to simplify content management and administrative tasks."],
     "imageSrc": "history/mosaiclogo.png"
   },
   {
