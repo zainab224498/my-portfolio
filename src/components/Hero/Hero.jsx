@@ -10,7 +10,7 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi, I'm Zainab Khayat</h1>
         <h2 className={styles.subtitle}>Business Analyst & Frontend Developer</h2>
         <p className={styles.description}>
-          Technically oriented analyst with +3 years of frontend development expertise and a track record of translating business needs into scalable web solutions. Proficient in bridging technical execution with strategic objectives through workflow optimization, process automation, and data-driven insights.
+          Technically oriented analyst with +3 years of frontend development expertise and a track record of translating business needs into scalable web solutions.
         </p>
                 <a href="https://drive.google.com/file/d/1X1E-pZcbelT6Ftv-Or0c8fZErAFHPoRq/view?usp=sharing" className={styles.contactBtn} target="_blank">
           Check Resume
