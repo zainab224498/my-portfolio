@@ -20,7 +20,7 @@
 }
 
 .title {
-  font-size: 68px;
+  font-size: 64px;
   font-weight: 900;
   margin-bottom: 10px;
   font-family: var(--font-roboto);
@@ -34,7 +34,7 @@
 }
 
 .subtitle {
-  font-size: 36px;
+  font-size: 34px;
   font-weight: 700;
   margin-bottom: 20px;
   font-family: var(--font-roboto);
@@ -48,7 +48,7 @@
 }
 
 .description {
-  font-size: 26px;
+  font-size: 23px;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
 }
