@@ -1,11 +1,11 @@
 [
   {
-    "role": "Business Analyst & Web Developer",
+    "role": "Product Owner",
     "organisation": "Mosaic Human Relief and Development ",
     "startDate": "Jan 2024",
     "endDate": "Present",
     "discription": "Latakia, Syria  - Full Time",
-  "experiences": ["Spearheaded the full redesign and enhancement of the organization’s website, improving functionality,user experience, and alignment with operational goals.", "Developed and optimized frontend interfaces, ensuring responsiveness, cross-browser compatibility, and seamless navigation.", "Structured and integrated new website sections to enhance information accessibility and stakeholder engagement", " Collaborated with cross-functional teams to analyze business requirements and translate them into technical solutions.", "Designed and implemented customized content templates tailored to specific project needs, streamlining data presentation", "Developed interactive dashboards and reports to visualize program metrics, enabling data-driven decision-making.", "Acted as the primary liaison between technical teams and non-technical stakeholders, ensuring clear communication and workflow alignment.", "Enhanced backend dashboard functionality to simplify content management and administrative tasks"],
+  "experiences": ["Defined product vision and roadmap for the organization’s website redesign, aligning enhancements (functionality, UX) with operational goals and stakeholder needs.", "Prioritized backlog items for frontend interface optimization, ensuring cross-browser compatibility, responsiveness, and user-centric navigation.", "Led stakeholder-driven development of new website sections to boost information accessibility and engagement.", "Translated business requirements into user stories/technical solutionsthrough collaboration with cross-functional teams.", "Owned the design and implementation of customized content templates to streamline data presentation for project-specific needs.", "Championed data-driven decision-making by developing interactive dashboards/reports for program metrics visualization.", "Acted as key liaison between technical teams and non-technical stakeholders, ensuring alignment on workflows and communication.", "Optimized backend systems (e.g., CMS dashboards) to simplify content management"],
     "imageSrc": "history/mosaiclogo.png"
   },
   {
