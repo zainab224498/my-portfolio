@@ -1,4 +1,12 @@
 [
+    {
+    "title": "Requirement Synthesis",
+    "imageSrc": "skills/requirement.png"
+  },
+  {
+    "title": "Stakeholder Communication",
+    "imageSrc": "skills/stackholder.png"
+  },
   {
     "title": "Data-Driven Prioritization",
     "imageSrc": "skills/data.png"
@@ -14,13 +22,5 @@
   {
     "title": "Cross-Functional Alignment",
     "imageSrc": "skills/cross.png"
-  },
-  {
-    "title": "Requirement Synthesis",
-    "imageSrc": "skills/requirement.png"
-  },
-  {
-    "title": "Stakeholder Communication",
-    "imageSrc": "skills/stackholder.png"
   }
 ]
