@@ -15,6 +15,15 @@
   text-transform: uppercase;
 }
 
+.titlesub {
+  color: var(--color-text);
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
 .content {
   display: flex;
   margin-top: 14px;
