@@ -3,6 +3,7 @@ import React from "react";
 import styles from "./Skill.module.css";
 import skills from "../../data/skills.json";
 import productskills from "../../data/productskills.json";
+import toolskills from "../../data/toolskills.json";
 import history from "../../data/history.json";
 import { getImageUrl } from "../../utils";
 
@@ -35,6 +36,21 @@ export const Skill = () => {
                   <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
                 </div>
                 <p>{skill.title}</p>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+      <h3 className={styles.titlesub}>Practices & Tools</h3>
+      <div className={styles.content}>
+        <div className={styles.skills}>
+          {toolskills.map((toolskill, id) => {
+            return (
+              <div key={id} className={styles.skill}>
+                <div className={styles.skillImageContainer}>
+                  <img src={getImageUrl(toolskill.imageSrc)} alt={toolskill.title} />
+                </div>
+                <p>{toolskill.title}</p>
               </div>
             );
           })}
