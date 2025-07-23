@@ -17,7 +17,6 @@
   align-items: center;
   border-radius: 10px;
   padding: 24px 24px;
-  max-width: 345px;
 }
 
 .left{
@@ -27,7 +26,6 @@
   align-items: center;
   border-radius: 10px;
   padding: 24px 24px;
-  max-width: 345px;
 }
 
 .right{
@@ -37,7 +35,6 @@
   align-items: center;
   border-radius: 10px;
   padding: 24px 24px;
-  max-width: 345px;
 }
 
 .image {
