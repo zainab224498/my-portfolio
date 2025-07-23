@@ -14,7 +14,7 @@ export const Education = () => {
             <div className={styles.aboutItemText}>
               <h3>Bachelor of Software Engineering</h3>
               <p>
-              Tishreen University
+              Latakia University
               </p>
               <h4>
               Sep 2016 - Dec 2021
