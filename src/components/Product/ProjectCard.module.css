@@ -11,6 +11,16 @@
   max-width: 345px;
 }
 
+.box{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 24px 24px;
+  max-width: 345px;
+}
+
 .image {
   margin-bottom: 26px;
 }
