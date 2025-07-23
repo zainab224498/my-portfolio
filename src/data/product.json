@@ -1,11 +1,9 @@
 [
   {
-    "title": "E-commerce Web App",
+    "title": "Mosaic Human Relief and Development Website",
     "imageSrc": "projects/roze.png",
-    "description": "Building Web App using React and Firebase, The App is flexible, easy to use, and Expandable",
-    "skills": ["React","Next", "Firebase", "Tailwind"],
-    "demo": "https://roze-e-commerce.vercel.app",
-    "source": "https://github.com/zainab224498/ROZE-e-commerce"
+    "description": "As Product Owner for Mosaic Human Relief and Development's website, I spearheaded strategic vision and priority-setting to enhance user experience and cross-browser compatibility. I translated stakeholder requirements into technical solutions by developing new sections and tailored content templates that optimized information delivery and engagement. Concurrently, I bridged communication between technical and non-technical teams to streamline content management and advance data-driven decision-making.",
+    "demo": "https://demo-mosaic.techx.company",
   }
 ]
 
