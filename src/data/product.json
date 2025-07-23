@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Mosaic Human Relief and Development Website",
+    "imageSrc": "projects/mosaic.png",
+    "description": "Led Mosaic's website strategy (UX/compatibility), translated stakeholder needs into technical solutions, and bridged teams to streamline content/data processes.",
+    "skills": ["React","Next", "Firebase", "Tailwind"],
+    "demo": "https://demo-mosaic.techx.company",
+    "source": "https://github.com/zainab224498/ROZE-e-commerce"
+  }
+]
