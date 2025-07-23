@@ -11,7 +11,7 @@ export const Product = () => {
       <h2 className={styles.title}>Product Ownership Project</h2>
       <div className={styles.projects}>
         {product.map((produc, id) => {
-          return <ProjectCard key={id} project={produc} />;
+          return <ProjectCard key={id} product={produc} />;
         })}
       </div>
     </section>
