@@ -1,19 +1,9 @@
 [
   {
     "title": "E-commerce Web App",
-    "imageSrc": "projects/roze.png",
+    "imageSrc": "projects/mosaic.png",
     "description": "Building Web App using React and Firebase, The App is flexible, easy to use, and Expandable",
-    "skills": ["React","Next", "Firebase", "Tailwind"],
     "demo": "https://roze-e-commerce.vercel.app",
-    "source": "https://github.com/zainab224498/ROZE-e-commerce"
-  },
-  {
-    "title": "Recipes Website",
-    "imageSrc": "projects/lamar.png",
-    "description": "Creating a Recipes Website using React and Firebase, The Website is dynamic and interactive",
-    "skills": ["React","Next", "Firebase", "Tailwind"],
-    "demo": "https://lamar-recipes.vercel.app",
-    "source": "https://github.com/zainab224498/Lamar_Recipes"
   }
 ]
 
