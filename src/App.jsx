@@ -5,7 +5,7 @@ import { Education } from "./components/Education/Education";
 import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
-import { ProjectProduct } from "./components/Product Owner Project/Projects";
+import { ProjectProduct } from "./components/Product Owner Project/Projects.jsx";
 import { Projects } from "./components/Projects/Projects";
 import { Skill } from "./components/Skill/Skill";
 
