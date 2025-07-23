@@ -31,8 +31,19 @@
   max-width: 345px;
 }
 
+.right{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 24px 24px;
+  max-width: 345px;
+}
+
 .image {
   margin-bottom: 26px;
+  width: 100%;
 }
 
 .title {
