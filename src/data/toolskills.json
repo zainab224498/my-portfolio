@@ -1,21 +1,13 @@
 [
   {
-    "title": "jQuery",
-    "imageSrc": "skills/jquery.png"
+    "title": "Agile",
+    "imageSrc": "skills/agile.png"
   },
-  {
-    "title": "Firebase",
-    "imageSrc": "skills/firebase.png"
+    {
+    "title": "Scrum",
+    "imageSrc": "skills/scrum.png"
   },
-  {
-    "title": "SQL",
-    "imageSrc": "skills/sql.png"
-  },
-  {
-    "title": "PHP",
-    "imageSrc": "skills/php.png"
-  },
-  {
+    {
     "title": "Git",
     "imageSrc": "skills/git.png"
   },
@@ -28,12 +20,16 @@
     "imageSrc": "skills/gitlab.webp"
   },
   {
+    "title": "Postman",
+    "imageSrc": "skills/postman.webp"
+  },
+  {
     "title": "APIs",
     "imageSrc": "skills/apis.jpg"
   },
   {
-    "title": "Postman",
-    "imageSrc": "skills/postman.webp"
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
   },
   {
     "title": "Vercel",
