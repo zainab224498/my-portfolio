@@ -8,7 +8,7 @@ export const Hero = () => {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Zainab Khayat</h1>
-        <h2 className={styles.subtitle}>PRODUCT OWNER & FRONTEND DEVELOPER</h2>
+        <h2 className={styles.subtitle}>PRODUCT OWNER</h2>
         <p className={styles.description}>
           Strategic Product Owner with 3+ years of technical frontend expertise.  
 Drives product vision, prioritizes backlogs, and delivers data-driven solutions by translating stakeholder needs into scalable products.  
