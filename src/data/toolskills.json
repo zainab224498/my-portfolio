@@ -1,0 +1,42 @@
+[
+  {
+    "title": "jQuery",
+    "imageSrc": "skills/jquery.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "GitLab",
+    "imageSrc": "skills/gitlab.webp"
+  },
+  {
+    "title": "APIs",
+    "imageSrc": "skills/apis.jpg"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.webp"
+  },
+  {
+    "title": "Vercel",
+    "imageSrc": "skills/vercel.png"
+  }
+]
