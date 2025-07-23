@@ -14,7 +14,7 @@ export const Hero = () => {
 Drives product vision, prioritizes backlogs, and delivers data-driven solutions by translating stakeholder needs into scalable products.  
 Optimizes workflows and aligns cross-functional teams using Agile methodologies to maximize business value. 
         </p>
-                <a href="https://drive.google.com/file/d/1MYy0sFV6Jup8y_6rLYsBnSmcqfH5YokK/view?usp=sharing" className={styles.contactBtn} target="_blank">
+                <a href="https://drive.google.com/file/d/19bwbbKfcIj9AWv711aRAjpI433I4lb-G/view?usp=sharing" className={styles.contactBtn} target="_blank">
           Check Resume
         </a>
       </div>
