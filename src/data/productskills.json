@@ -1,26 +1,26 @@
 [
   {
-    "title": "React Js",
-    "imageSrc": "skills/react.png"
+    "title": "Data-Driven Prioritization",
+    "imageSrc": "skills/data.png"
   },
   {
-    "title": "Redux",
-    "imageSrc": "skills/redux.svg"
+    "title": "Process & Workflow Optimization",
+    "imageSrc": "skills/process.png"
   },
   {
-    "title": "Next Js",
-    "imageSrc": "skills/next.png"
+    "title": "Value-Based Decision Making",
+    "imageSrc": "skills/value.png"
   },
   {
-    "title": "Node Js",
-    "imageSrc": "skills/node.png"
+    "title": "Cross-Functional Alignment",
+    "imageSrc": "skills/cross.png"
   },
   {
-    "title": "Vuexy",
-    "imageSrc": "skills/vuexy.svg"
+    "title": "Requirement Synthesis",
+    "imageSrc": "skills/requirement.svg"
   },
   {
-    "title": "Material UI",
-    "imageSrc": "skills/material-ui.png"
+    "title": "Stakeholder Communication",
+    "imageSrc": "skills/stackholder.png"
   }
 ]
