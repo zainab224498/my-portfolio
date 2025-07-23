@@ -5,7 +5,7 @@ import { Education } from "./components/Education/Education";
 import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
-import { ProjectProduct } from "./components/Product Owner Project/Projects.jsx";
+import { Product } from "./components/Product/Product";
 import { Projects } from "./components/Projects/Projects";
 import { Skill } from "./components/Skill/Skill";
 
@@ -18,7 +18,7 @@ function App() {
       <Education />
       <Experience />
       <Skill />
-      <ProjectProduct />
+      <Product />
       <Projects />
       <Contact />
     </div>
