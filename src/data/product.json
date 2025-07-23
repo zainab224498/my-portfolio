@@ -1,1 +1,11 @@
+[
+  {
+    "title": "E-commerce Web App",
+    "imageSrc": "projects/roze.png",
+    "description": "Building Web App using React and Firebase, The App is flexible, easy to use, and Expandable",
+    "skills": ["React","Next", "Firebase", "Tailwind"],
+    "demo": "https://roze-e-commerce.vercel.app",
+    "source": "https://github.com/zainab224498/ROZE-e-commerce"
+  }
+]
 
