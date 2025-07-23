@@ -1,0 +1,26 @@
+[
+  {
+    "title": "React Js",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.svg"
+  },
+  {
+    "title": "Next Js",
+    "imageSrc": "skills/next.png"
+  },
+  {
+    "title": "Node Js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Vuexy",
+    "imageSrc": "skills/vuexy.svg"
+  },
+  {
+    "title": "Material UI",
+    "imageSrc": "skills/material-ui.png"
+  }
+]
