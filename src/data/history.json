@@ -1,9 +1,23 @@
 [
+    {
+    "role": "E-commerce Product Owner & Strategic Account Lead",
+    "organisation": "Zeed Agency ",
+    "startDate": "June 2025",
+    "endDate": "Present",
+    "discription": "UAE (Remotly)  - Full Time",
+  "experiences": ["Product Ownership & Strategy: Operating as a dedicated Product Owner for 40+ diverse E-commerce accounts; auditing store performance to identify barriers to purchase and identifying growth opportunities to ensure business viability.",
+  "New Business Onboarding (The 90-Day Blueprint): Leading the strategic onboarding for startups and new ad accounts; implementing a structured 90-day roadmap (Awareness, Engagement, Conversion) to manage expectations and build data foundations.",
+    "Scale-Up Management (Established Brands): Driving growth for high-revenue accounts (>30k SAR/ AED) by optimizing delivery workflows and ensuring ad content aligns with high-performance sales goals.",
+    "Cross-Functional Orchestration: Acting as the central link between 5+ Media Buyers, Social Media teams, and clients; translating technical ad results into clear, actionable business narratives.",
+    "Proactive Content Consulting: Drafting advertising scripts, UGC concepts, and creative ideas for clients—even outside the contracted scope—to bridge performance gaps and drive results.",
+    "Stakeholder Advocacy & Retention: Maintaining a 90% positive relationship rate through transparent weekly reporting, proactive feedback loops, and data-driven consultation to prevent churn."],
+    "imageSrc": "history/zeed.png"
+  },
   {
     "role": "Product Owner",
     "organisation": "Mosaic Human Relief and Development ",
     "startDate": "Jan 2024",
-    "endDate": "Present",
+    "endDate": "June 2025",
     "discription": "Latakia, Syria  - Full Time",
   "experiences": ["Defined product vision and roadmap for the organization’s website redesign, aligning enhancements (functionality, UX) with operational goals and stakeholder needs.", "Prioritized backlog items for frontend interface optimization, ensuring cross-browser compatibility, responsiveness, and user-centric navigation.", "Led stakeholder-driven development of new website sections to boost information accessibility and engagement.", "Translated business requirements into user stories/technical solutionsthrough collaboration with cross-functional teams.", "Owned the design and implementation of customized content templates to streamline data presentation for project-specific needs.", "Championed data-driven decision-making by developing interactive dashboards/reports for program metrics visualization.", "Acted as key liaison between technical teams and non-technical stakeholders, ensuring alignment on workflows and communication.", "Optimized backend systems (e.g., CMS dashboards) to simplify content management"],
     "imageSrc": "history/mosaiclogo.png"
@@ -11,7 +25,7 @@
   {
     "role": "Frontend Developer",
     "organisation": "Axtro Soft",
-    "startDate": "Mar 2022",
+    "startDate": "July 2020",
     "endDate": "Dec 2023",
     "discription": "Damascus, Syria (Remote)  - Full Time",
     "experiences": ["Worked with UI/UX designer and converted the designs to front-end web applications.", "Engaged in daily scrum meetings with our team to optimize the development process.", "Build Many web applications pages with a responsive mobilefirst approach.", "Solving many bugs related to building web application. ", "Join several online training to learn new skills and tools."],
