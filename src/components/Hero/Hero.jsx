@@ -11,7 +11,7 @@ export const Hero = () => {
         <h2 className={styles.subtitle}>E-commerce Product Owner & Strategic Growth Lead</h2>
         <p className={styles.description}>
           Strategic Product Owner & Software Engineer bridging the gap between technical precision and e-commerce growth.
-          With 6+ years of experience and 40+ stores developed, I transform platforms into profitable success stories." 
+          With 6+ years of experience and 40+ stores developed, I transform platforms into profitable success stories. 
         </p>
                 <a href="https://drive.google.com/file/d/1_4ShU8cUu-ekOGwO9EOidD8bJx1b5wOU/view?usp=sharing" className={styles.contactBtn} target="_blank">
           Check Resume
