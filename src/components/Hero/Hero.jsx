@@ -8,7 +8,7 @@ export const Hero = () => {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Zainab Khayat</h1>
-        <h2 className={styles.subtitle}>E-commerce Product Owner & Strategic Growth Lead</h2>
+        <h2 className={styles.subtitle}>Product Owner</h2>
         <p className={styles.description}>
           Strategic Product Owner & Software Engineer bridging the gap between technical precision and e-commerce growth.
           With 6+ years of experience and 40+ stores developed, I transform platforms into profitable success stories. 
