@@ -97,5 +97,16 @@
   border-radius: 10px;
   padding: 0px;
 }
+.image {
+  margin-bottom: 10px;
+  width: 100%;
+}
+.links {
+  width: 100%;
+  margin-top: 26px;
+  margin-bottom: 26px;
+  display: flex;
+  justify-content: space-around;
+}
 }
 
