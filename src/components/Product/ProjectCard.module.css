@@ -108,5 +108,10 @@
   display: flex;
   justify-content: space-around;
 }
+.title {
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
 }
 
