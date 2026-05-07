@@ -114,6 +114,20 @@
 }
 
 @media screen and (max-width: 830px) {
+  .historyItem {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 17px;
+  background: #19376d;
+  background: linear-gradient(90deg, #19376d 0%, rgba(25, 55, 109, 0) 100%);
+  border-radius: 10px;
+  padding: 24px;
+}
+  .historyItem img {
+  width: 100px;
+    margin: 12px auto; 
+}
   .content {
     flex-direction: column;
     align-items: center;
