@@ -94,6 +94,11 @@
   .aboutItems {
     margin-top: 29px;
   }
+  .aboutItem h3 {
+  font-size: 25px;
+  margin-bottom: 12px;
+  font-weight: 600;
+}
 
   .aboutItem {
     padding-left: 0;
