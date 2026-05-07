@@ -4,7 +4,6 @@
     "imageSrc": "projects/mosaic.png",
     "description": "Product Owner, Mosaic HRD Website Spearheaded strategic vision and priority-setting to enhance UX and cross-browser compatibility. Translated stakeholder needs into technical solutions by developing new sections and tailored content templates, optimizing engagement.",
     "skills": ["React","Next", "Firebase", "Tailwind"],
-    "demo": "https://demo-mosaic.techx.company",
-    "source": "https://github.com/zainab224498/ROZE-e-commerce"
+    "demo": "https://mosaic-hrd.org",
   }
 ]
