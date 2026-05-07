@@ -13,7 +13,7 @@ export const Hero = () => {
           Strategic Product Owner & Software Engineer bridging the gap between technical precision and e-commerce growth.
           With 6+ years of experience and 40+ stores developed, I transform platforms into profitable success stories. 
         </p>
-                <a href="https://drive.google.com/file/d/1_4ShU8cUu-ekOGwO9EOidD8bJx1b5wOU/view?usp=sharing" className={styles.contactBtn} target="_blank">
+                <a href="https://drive.google.com/file/d/1u5TjfQlJxjixvuoPAT0WZySAG5TCXoSQ/view?usp=sharing" className={styles.contactBtn} target="_blank">
           Check Resume
         </a>
       </div>
