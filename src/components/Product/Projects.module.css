@@ -31,5 +31,11 @@
   text-align: center;
   font-weight: bold;
 }
+.container {
+  margin-top: 76px;
+  color: var(--color-text);
+  margin-left: 6%;
+  margin-right: 6%;
+}
 }
 
