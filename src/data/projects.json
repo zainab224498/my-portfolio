@@ -36,7 +36,7 @@
     "imageSrc": "projects/portfolio.png",
     "description": "Building an impressive Responsive Portfolio Website using React and CSS",
     "skills": ["React", "CSS", "HTML"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://zenab-kheat-portfolio.vercel.app",
+    "source": "https://github.com/zainab224498/my-portfolio"
   }
 ]
